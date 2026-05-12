@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-11T17:48:01 IST" name="Surefire suite" finished-at="2026-05-11T17:49:28 IST" duration-ms="86957">
+    <groups>
+    </groups>
+    <test started-at="2026-05-11T17:48:01 IST" name="Surefire test" finished-at="2026-05-11T17:49:28 IST" duration-ms="86957">
+      <class name="com.krce.DynamicLoadingTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.DynamicLoadingTest@6a400542]" started-at="2026-05-11T17:48:38 IST" name="setUp" finished-at="2026-05-11T17:48:39 IST" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="disappearingElementTest()[pri:0, instance:com.krce.DynamicLoadingTest@6a400542]" started-at="2026-05-11T17:48:39 IST" name="disappearingElementTest" finished-at="2026-05-11T17:48:43 IST" duration-ms="3534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disappearingElementTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.DynamicLoadingTest@6a400542]" started-at="2026-05-11T17:48:43 IST" name="tearDown" finished-at="2026-05-11T17:48:43 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.DynamicLoadingTest@6a400542]" started-at="2026-05-11T17:48:43 IST" name="setUp" finished-at="2026-05-11T17:48:44 IST" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dynamicLoadingTest()[pri:0, instance:com.krce.DynamicLoadingTest@6a400542]" started-at="2026-05-11T17:48:44 IST" name="dynamicLoadingTest" finished-at="2026-05-11T17:48:53 IST" duration-ms="8313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicLoadingTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.DynamicLoadingTest@6a400542]" started-at="2026-05-11T17:48:53 IST" name="tearDown" finished-at="2026-05-11T17:48:53 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.krce.DynamicLoadingTest -->
+      <class name="com.krce.DropdownTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:23 IST" name="setUp" finished-at="2026-05-11T17:48:25 IST" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkbox1Test()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:25 IST" name="checkbox1Test" finished-at="2026-05-11T17:48:28 IST" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox1Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:28 IST" name="tearDown" finished-at="2026-05-11T17:48:28 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:28 IST" name="setUp" finished-at="2026-05-11T17:48:29 IST" duration-ms="1296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkbox2Test()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:29 IST" name="checkbox2Test" finished-at="2026-05-11T17:48:33 IST" duration-ms="3604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox2Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:33 IST" name="tearDown" finished-at="2026-05-11T17:48:33 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:33 IST" name="setUp" finished-at="2026-05-11T17:48:35 IST" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dropdownTest()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:35 IST" name="dropdownTest" finished-at="2026-05-11T17:48:38 IST" duration-ms="3274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.DropdownTest@654f0d9c]" started-at="2026-05-11T17:48:38 IST" name="tearDown" finished-at="2026-05-11T17:48:38 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.krce.DropdownTest -->
+      <class name="com.krce.AlertTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:01 IST" name="setUp" finished-at="2026-05-11T17:48:04 IST" duration-ms="3204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="jsAlertTest()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:04 IST" name="jsAlertTest" finished-at="2026-05-11T17:48:08 IST" duration-ms="4691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsAlertTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:09 IST" name="tearDown" finished-at="2026-05-11T17:48:09 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:09 IST" name="setUp" finished-at="2026-05-11T17:48:10 IST" duration-ms="1198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="jsConfirmCancelTest()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:10 IST" name="jsConfirmCancelTest" finished-at="2026-05-11T17:48:13 IST" duration-ms="3395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsConfirmCancelTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:13 IST" name="tearDown" finished-at="2026-05-11T17:48:14 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:14 IST" name="setUp" finished-at="2026-05-11T17:48:15 IST" duration-ms="1318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="jsPromptTest()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:15 IST" name="jsPromptTest" finished-at="2026-05-11T17:48:18 IST" duration-ms="3348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsPromptTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:18 IST" name="tearDown" finished-at="2026-05-11T17:48:18 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:18 IST" name="setUp" finished-at="2026-05-11T17:48:20 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyResultTextChanges()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:20 IST" name="verifyResultTextChanges" finished-at="2026-05-11T17:48:23 IST" duration-ms="3584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResultTextChanges -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.AlertTest@4690b489]" started-at="2026-05-11T17:48:23 IST" name="tearDown" finished-at="2026-05-11T17:48:23 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.krce.AlertTest -->
+      <class name="com.krce.FileUploadTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:48:53 IST" name="setUp" finished-at="2026-05-11T17:48:54 IST" duration-ms="1240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fileUploadTest()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:48:54 IST" name="fileUploadTest" finished-at="2026-05-11T17:48:58 IST" duration-ms="4425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUploadTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:48:58 IST" name="tearDown" finished-at="2026-05-11T17:48:59 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:48:59 IST" name="setUp" finished-at="2026-05-11T17:49:00 IST" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="unsupportedFileUploadTest()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:49:00 IST" name="unsupportedFileUploadTest" finished-at="2026-05-11T17:49:05 IST" duration-ms="5064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsupportedFileUploadTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:49:05 IST" name="tearDown" finished-at="2026-05-11T17:49:05 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:49:05 IST" name="setUp" finished-at="2026-05-11T17:49:06 IST" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="uploadPageElementsTest()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:49:06 IST" name="uploadPageElementsTest" finished-at="2026-05-11T17:49:09 IST" duration-ms="3001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPageElementsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.FileUploadTest@6580cfdd]" started-at="2026-05-11T17:49:09 IST" name="tearDown" finished-at="2026-05-11T17:49:10 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.krce.FileUploadTest -->
+      <class name="com.krce.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:10 IST" name="setUp" finished-at="2026-05-11T17:49:11 IST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:11 IST" name="testLogin" data-provider="loginData" finished-at="2026-05-11T17:49:15 IST" duration-ms="4389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[supersecretpassword]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Your password is invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:15 IST" name="tearDown" finished-at="2026-05-11T17:49:15 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:15 IST" name="setUp" finished-at="2026-05-11T17:49:17 IST" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:17 IST" name="testLogin" data-provider="loginData" finished-at="2026-05-11T17:49:21 IST" duration-ms="4629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Your username is invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:21 IST" name="tearDown" finished-at="2026-05-11T17:49:22 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:22 IST" name="setUp" finished-at="2026-05-11T17:49:23 IST" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:23 IST" name="testLogin" data-provider="loginData" finished-at="2026-05-11T17:49:27 IST" duration-ms="4483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[You logged into a secure area!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.krce.LoginTest@7e0b85f9]" started-at="2026-05-11T17:49:27 IST" name="tearDown" finished-at="2026-05-11T17:49:28 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.krce.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
